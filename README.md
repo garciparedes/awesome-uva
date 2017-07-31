@@ -39,27 +39,32 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - *2015/16* Academia:
     - [García Prado, Sergio](https://github.com/garciparedes/Academia-Class-Diagram)
 
-- ### Operative System Basics (Fundamentos de Sistemas Operativos)
+- #### Operative System Basics (Fundamentos de Sistemas Operativos)
 
   - *2014/15* Hilos Primos:
     - [García Prado, Sergio & Ortega Sánchez, Roberto](https://github.com/garciparedes/HilosPrimos)
 
-- ### Computer Architecture and Organization (Arquitectura y Organización de Computadoras)
+- #### Computer Architecture and Organization (Arquitectura y Organización de Computadoras)
 
   - *2014/15* IA32Assembler:
     - [García Prado, Sergio & Fernández Angulo, Oscar](https://github.com/garciparedes/IA32-Assembler)
 
-- ### Data Structures and Algorithms (Estructuras de Datos y Algoritmos)
+- #### Data Structures and Algorithms (Estructuras de Datos y Algoritmos)
 
   - *2014/15* Text Generator:
     - [García Prado, Sergio & Amigo Alonso, Alberto](https://github.com/garciparedes/generador-de-texto-aleatorio)
 
-- ### Artificial Intelligence Basics (Fundamentos de Inteligencia Artificial)
+- #### Artificial Intelligence Basics (Fundamentos de Inteligencia Artificial)
 
   - *2014/15* Prolog:
     - [García Prado, Sergio](https://github.com/garciparedes/prolog-examples/tree/master/practicas-FIA)
 
-- ### Human-Computer Interaction (Iteracción Persona-Computadora)
+- #### Distributed Systems (Sistemas Distribuidos)
+
+  - *2014/15* Prácticas:
+    - [García Prado, Sergio](https://github.com/garciparedes/PracticasSistemasDistribuidos)
+
+- #### Human-Computer Interaction (Iteracción Persona-Computadora)
 
   - *2014/15* Cambia Fecha:
     - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/adrianetete/ReservasHotel-IPC)
@@ -68,7 +73,7 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - *2014/15* Reservas Hotel:
     - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/adrianetete/Primera-Practica-IPC)
 
-- ### Computation and Algorithms (Algoritmos y Computación)
+- #### Computation and Algorithms (Algoritmos y Computación)
 
   - *2015/16* Closest Pair of Points:
     - [García Prado, Sergio](https://github.com/garciparedes/closest-pair-of-points)
@@ -77,17 +82,17 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - *2015/16* JobShop Scheduling NP-Complete:
     - [García Prado, Sergio](https://github.com/garciparedes/Job-Shop-Scheduling-NP-Complete)
 
-- ### Codes and Cryptography (Códigos y Criptografía)
+- #### Codes and Cryptography (Códigos y Criptografía)
 
   - *2015/16* Big Integer Calculator:
     - [Taboada Rodero, Ismael José & García Prado, Sergio](https://github.com/ismtabo/cc_bigintegers)
 
-- ### Design and Evaluation of Interactive Systems (Diseño y Evaluación de Sistemas Interactivos)
+- #### Design and Evaluation of Interactive Systems (Diseño y Evaluación de Sistemas Interactivos)
 
   - *2015/16* Datos Medioambientales CYL:
     - [García Prado, Sergio](https://github.com/garciparedes/DatosMedioambientalesCYL)
 
-- ### Knowledge Engineering (Ingeniería del Conocimiento)
+- #### Knowledge Engineering (Ingeniería del Conocimiento)
 
   - *2016/17* Preguntas de Lógica:
     - [García Prado, Sergio](https://github.com/garciparedes/knowledge-logic-programming-questions)
@@ -110,7 +115,7 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - *2016/17* CLIPS:
     - [García Prado, Sergio](https://github.com/garciparedes/knowledge-clips)
 
-- ### Database Analysis and Design (Análisis y Diseño de Bases de Datos)
+- #### Database Analysis and Design (Análisis y Diseño de Bases de Datos)
 
   - *2016/17* Ejercicio de Aerolíneas:
     - [García Prado, Sergio](https://github.com/garciparedes/air-travel-exercise)
@@ -119,14 +124,14 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - *2016/17* Base de Datos de Animales:
     - [García Prado, Sergio & Urbón, Fernando & Muñoz, Sergio](https://github.com/garciparedes/animals-database)
 
-- ### Information Security and Guarantee (Garantía y Serguridad de la Información)
+- #### Information Security and Guarantee (Garantía y Serguridad de la Información)
 
   - *2016/17* Definiciones sobre Ataques:
     - [García Prado, Sergio](https://github.com/garciparedes/security-attack-definitions)
   - *2016/17* Prácticas:
     - [García Prado, Sergio](https://github.com/garciparedes/gsi-practices)
 
-- ### Models for decision-making (Modelos para Toma de Decisiones)
+- #### Models for decision-making (Modelos para Toma de Decisiones)
 
   - *2015/16* What is it?:
     - [García Prado, Sergio](https://github.com/garciparedes/operations-research-task-what-is-it)
@@ -135,12 +140,41 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - *2015/16* Task 2:
     - [García Prado, Sergio](https://github.com/garciparedes/operations-research-task-2)
 
-- ### Web Services and Systems (Servicios y Sistemas Web)
+- #### Machine Learning Techniques (Técnicas de Aprendizaje Automático)
+
+  - *2016/17* Teoría de Información:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-information-theory)
+  - *2016/17* Introducción a Weka:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-weka-introduction)
+  - *2016/17* Árboles de Decisión:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-decision-trees)
+  - *2016/17* Evaluación de Hipótesis:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-hypothesis-evaluation)
+  - *2016/17* Árboles de Decisión y Sistemas Basados en Reglas:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-decision-trees-and-rules)
+  - *2016/17* Aprendizaje Basado en Instancias:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-instance-based)
+  - *2016/17* Naive Bayes:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-bayesian-1)
+  - *2016/17* Redes Bayesianas:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-bayesian-2)
+  - *2016/17* Redes Neuronales Monocapa:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-single-layer-neural-networks)
+  - *2016/17* Regresión:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-regression)
+  - *2016/17* Perceptrón Multicapa:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-multilayer-perceptron)
+  - *2016/17* Funciones de Base Radial:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-radial-basis-functions)
+  - *2016/17* Máquinas de Vector Soporte:
+    - [García Prado, Sergio](https://github.com/garciparedes/machine-learning-support-vector-machine)
+
+- #### Web Services and Systems (Servicios y Sistemas Web)
 
   - *2015/16* Individual Proposal:
     - [García Prado, Sergio](https://github.com/garciparedes/WebServicesAndSystems-IndividualProposal)
 
-- ### Data Mining (Minería de Datos)
+- #### Data Mining (Minería de Datos)
 
   - *2016/17* Self-Organizing Map (SOM):
     - [García Prado, Sergio](https://github.com/garciparedes/data-mining-som-mlp)
@@ -153,7 +187,7 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - *2016/17* Redes Neuronales Recurrentes de Elman y Jordan:
     - [García Prado, Sergio](https://github.com/garciparedes/data-mining-elman-jordan-network)
 
-- ### Planning and Design of Computer Systems (Planificación y Diseño de Sistemas Computacionales)
+- #### Planning and Design of Computer Systems (Planificación y Diseño de Sistemas Computacionales)
 
   - *2016/17* Tarea de Acortamiento:
     - [García Prado, Sergio](https://github.com/garciparedes/shortening-task)
@@ -169,3 +203,8 @@ A curated list of awesome projects developed at the [University of Valladolid](h
 
   - *2016/17* Práctica Evaluable:
     - [García Prado, Sergio & Taboada Rodero, Ismael José](https://github.com/garciparedes/ed-evaluable-practice)
+
+- #### Operative Research Models (Modelos de Investigación Operativa)
+
+  - *2016/17* Prácticas:
+      - [García Prado, Sergio](https://github.com/garciparedes/mosel-examples)
