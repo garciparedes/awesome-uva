@@ -19,6 +19,9 @@ A curated list of awesome projects developed at the [University of Valladolid](h
 <a name="computer-engineering-degree" />
 
 ### Degree
+
+#### 1º Course
+
 - #### Programming Basics (Fundamentos de Programación)
   - *2013/14* Colorines:
     - [García Prado, Sergio & Castaño Fernández, Iván](https://github.com/garciparedes/Colorines)
@@ -27,6 +30,8 @@ A curated list of awesome projects developed at the [University of Valladolid](h
 
   - *2013/14* Damas:
     - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/MangostasUVaTeam/DamasPyhonGtk3)
+
+#### 2º Course
 
 - #### Object Oriented Programming (Programación Orientada a Objetos)
 
@@ -77,6 +82,8 @@ A curated list of awesome projects developed at the [University of Valladolid](h
     - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/adrianetete/MaquinasEstados-IPC)
   - *2014/15* Reservas Hotel:
     - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/adrianetete/Primera-Practica-IPC)
+
+#### 3º Course
 
 - #### Computation and Algorithms (Algoritmos y Computación)
 
@@ -181,6 +188,8 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - *2015/16* Práctica Grupal:
     - [García Prado, Sergio & Delgado Álvarez, Sergio & Amigo Alonso, Alberto & Fernández Angulo, Oscar & Rodriguez Ares, Silvia](https://github.com/MangostasUVaTeam/JumpVa)
 
+#### 4º Course
+
 - #### Data Mining (Minería de Datos)
 
   - *2016/17* Self-Organizing Map (SOM):
@@ -208,10 +217,15 @@ A curated list of awesome projects developed at the [University of Valladolid](h
 <a name="statistics-degree" />
 
 ### Degree
+
+#### 1º Course
+
 - #### Descriptive Statistics (Estadística Descriptiva)
 
   - *2016/17* Práctica Evaluable:
     - [García Prado, Sergio & Taboada Rodero, Ismael José](https://github.com/garciparedes/ed-evaluable-practice)
+
+#### 3º Course
 
 - #### Operative Research Models (Modelos de Investigación Operativa)
 
