@@ -64,6 +64,11 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - *2014/15* Prácticas:
     - [García Prado, Sergio](https://github.com/garciparedes/PracticasSistemasDistribuidos)
 
+- #### Operative System Structures (Estructuras de Sistemas Operativos)
+
+  - *2014/15* Prácticas:
+    - [García Prado, Sergio & Calvo Rojo, Adrian](https://github.com/MangostasUVaTeam/Practica-A-B-C-D-E)
+
 - #### Human-Computer Interaction (Iteracción Persona-Computadora)
 
   - *2014/15* Cambia Fecha:
@@ -171,8 +176,10 @@ A curated list of awesome projects developed at the [University of Valladolid](h
 
 - #### Web Services and Systems (Servicios y Sistemas Web)
 
-  - *2015/16* Individual Proposal:
+  - *2015/16* Propuesta Individual:
     - [García Prado, Sergio](https://github.com/garciparedes/WebServicesAndSystems-IndividualProposal)
+  - *2015/16* Práctica Grupal:
+    - [García Prado, Sergio & Delgado Álvarez, Sergio & Amigo Alonso, Alberto & Fernández Angulo, Oscar & Rodriguez Ares, Silvia](https://github.com/MangostasUVaTeam/JumpVa)
 
 - #### Data Mining (Minería de Datos)
 
@@ -191,6 +198,8 @@ A curated list of awesome projects developed at the [University of Valladolid](h
 
   - *2016/17* Tarea de Acortamiento:
     - [García Prado, Sergio](https://github.com/garciparedes/shortening-task)
+  - *2016/17* Practica Grupal:
+    - [García Prado, Sergio & Taboada Rodero, Ismael José & Hernández, Jorge](https://github.com/DHondtAnalyzer)
 
 <a name="statistics" />
 
