@@ -22,12 +22,37 @@ A curated list of awesome projects developed at the [University of Valladolid](h
 - #### Programming Basics (Fundamentos de Programación)
   - *2013/14* Colorines:
     - [García Prado, Sergio & Castaño Fernández, Iván](https://github.com/garciparedes/Colorines)
-    
+
 - #### Programming Paradigms (Paradigmas de Programación)
 
   - *2013/14* Damas:
     - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/MangostasUVaTeam/DamasPyhonGtk3)
 
+- #### Object Oriented Programming (Programación Orientada a Objetos)
+
+  - *2014/15* Gestor Parking:
+    - [García Prado, Sergio & Calvo Rojo, Adrián & Fernández Angulo, Óscar](https://github.com/garciparedes/Gestor-Parking)
+  - *2014/15* Hamburguesería:
+    - [García Prado, Sergio & Calvo Rojo, Adrián & Fernández Angulo, Óscar](https://github.com/garciparedes/Gestor-Parking)
+
+- ### Operative System Basics (Fundamentos de Sistemas Operativos)
+
+  - *2014/15* Hilos Primos:
+    - [García Prado, Sergio & Ortega Sánchez, Roberto](https://github.com/garciparedes/HilosPrimos)
+
+- ### Computer Architecture and Organization (Arquitectura y Organización de Computadoras)
+
+  - *2014/15* IA32Assembler:
+    - [García Prado, Sergio & Fernández Angulo, Oscar](https://github.com/garciparedes/IA32-Assembler)
+
+- ### Human-Computer Interaction (Iteracción Persona-Computadora)
+
+  - *2014/15* Cambia Fecha:
+    - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/adrianetete/ReservasHotel-IPC)
+  - *2014/15* Maquina Estados:
+    - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/adrianetete/MaquinasEstados-IPC)
+  - *2014/15* Reservas Hotel:
+    - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/adrianetete/Primera-Practica-IPC)
 
 <a name="statistics" />
 
@@ -37,6 +62,6 @@ A curated list of awesome projects developed at the [University of Valladolid](h
 
 ### Degree
 - #### Descriptive Statistics (Estadística Descriptiva)
-  
+
   - *2016/17* Práctica Evaluable:
     - [García Prado, Sergio & Taboada Rodero, Ismael José](https://github.com/garciparedes/ed-evaluable-practice)
