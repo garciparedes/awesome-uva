@@ -9,6 +9,8 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - [Degree](#computer-engineering-degree)
 - [Statistics](#statistics)
   - [Degree](#statistics-degree)
+<!-- /MarkdownTOC -->
+
 
 <a name="computer-engineering" />
 
