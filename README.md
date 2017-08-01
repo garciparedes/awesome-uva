@@ -210,6 +210,15 @@ A curated list of awesome projects developed at the [University of Valladolid](h
   - *2016/17* Practica Grupal:
     - [García Prado, Sergio & Taboada Rodero, Ismael José & Hernández, Jorge](https://github.com/DHondtAnalyzer)
 
+- #### Profession and Society (Profesión y Sociedad)
+  
+  - *2016/17* Renovarse o Morir - El ciclo de vida de un informático:
+    - [Amigo Alonso, Alberto & Delgado Álvarez, Sergio & García Prado, Sergio & Iglesias Cortijo, David](https://github.com/MangostasUVaTeam/renovarse-o-morir--el-ciclo-de-vida-de-un-informatico)
+  - *2016/17* Licencias Software:
+    - [Amigo Alonso, Alberto & Delgado Álvarez, Sergio & García Prado, Sergio & Iglesias Cortijo, David](https://github.com/MangostasUVaTeam/licencias-software)
+  - *2016/17* Consumo energético de los centros de datos:
+    - [Amigo Alonso, Alberto & Delgado Álvarez, Sergio & García Prado, Sergio & Iglesias Cortijo, David](https://github.com/MangostasUVaTeam/consumo-energetico-de-los-centros-de-datos)
+    
 <a name="statistics" />
 
 ## Statistics
