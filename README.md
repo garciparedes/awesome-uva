@@ -2,6 +2,8 @@
 
 A curated list of awesome projects developed at the [University of Valladolid](http://www.uva.es/).
 
+You can contribute to this repo following contributing [guidelines](CONTRIBUTING.md).
+
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
