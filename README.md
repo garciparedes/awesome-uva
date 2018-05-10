@@ -27,11 +27,15 @@ You can contribute to this repo following contributing [guidelines](CONTRIBUTING
 - #### Programming Basics (Fundamentos de Programación)
   - *2013/14* Colorines:
     - [García Prado, Sergio & Castaño Fernández, Iván](https://github.com/garciparedes/Colorines)
+  - *2016/2017* Tabloidex:
+    - [Arroyo Calle, Adrián & Crespo Jiménez, Cristina Alejandra](https://github.com/aarroyoc/Tabloidex)
 
 - #### Programming Paradigms (Paradigmas de Programación)
 
   - *2013/14* Damas:
     - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/MangostasUVaTeam/DamasPyhonGtk3)
+  - *2016/2017* Anrokku:
+    - [Arroyo Calle, Adrián & Crespo Jiménez, Cristina Alejandra](https://github.com/aarroyoc/Anrokku)
 
 #### 2º Course
 
@@ -45,11 +49,17 @@ You can contribute to this repo following contributing [guidelines](CONTRIBUTING
     - [García Prado, Sergio & Calvo Rojo](https://github.com/garciparedes/EjerciciosParaPracticarPOO)
   - *2015/16* Academia:
     - [García Prado, Sergio](https://github.com/garciparedes/Academia-Class-Diagram)
+  - *2017/2018* Bicicletoide:
+    - [Arroyo Calle, Adrián & González Caminero, Juan](https://github.com/aarroyoc/entrega1-adriarr-jugonza)
+  - *2017/2018* Bicicletoide Parte 2: 
+    - [Arroyo Calle, Adrián & González Caminero, Juan](https://github.com/aarroyoc/entrega2-adriarr-jugonza)
 
 - #### Operative System Basics (Fundamentos de Sistemas Operativos)
 
   - *2014/15* Hilos Primos:
     - [García Prado, Sergio & Ortega Sánchez, Roberto](https://github.com/garciparedes/HilosPrimos)
+  - *2017/2018* Hilos Primos:
+    - [Arroyo Calle, Adrián & Martínez Alonso, Eloy Antonio](https://github.com/aarroyoc/practica-fso)
 
 - #### Computer Architecture and Organization (Arquitectura y Organización de Computadoras)
 
@@ -60,6 +70,8 @@ You can contribute to this repo following contributing [guidelines](CONTRIBUTING
 
   - *2014/15* Text Generator:
     - [García Prado, Sergio & Amigo Alonso, Alberto](https://github.com/garciparedes/generador-de-texto-aleatorio)
+  - *2017/2018* Conway's Game of Life:
+    - [Arroyo Calle, Adrián & Bazaco Velasco, Daniel](https://github.com/aarroyoc/Conway)
 
 - #### Artificial Intelligence Basics (Fundamentos de Inteligencia Artificial)
 
