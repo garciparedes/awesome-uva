@@ -23,7 +23,7 @@ You can contribute to this repo following contributing [guidelines](CONTRIBUTING
 ### Degree
 
 #### 1º Course
-
+    
 - #### Programming Basics (Fundamentos de Programación)
   - *2013/14* Colorines:
     - [García Prado, Sergio & Castaño Fernández, Iván](https://github.com/garciparedes/Colorines)
@@ -36,6 +36,14 @@ You can contribute to this repo following contributing [guidelines](CONTRIBUTING
     - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/MangostasUVaTeam/DamasPyhonGtk3)
   - *2016/2017* Anrokku:
     - [Arroyo Calle, Adrián & Crespo Jiménez, Cristina Alejandra](https://github.com/aarroyoc/Anrokku)
+  - *2019/2020* Juego 2048:
+    - [Chaveinte García, Miguel & Ali Ali,Abdurrahim](https://github.com/miguelchaveinte/ParadigmasProgramacion)
+    
+- #### Computer Basics (Fundamentos de Computadoras)
+
+  - *2020/21* Prácticas:
+    - [Chaveinte García, Miguel & Bejar Sierra,Pablo](https://github.com/miguelchaveinte/FCOM)
+
 
 #### 2º Course
 
@@ -53,6 +61,10 @@ You can contribute to this repo following contributing [guidelines](CONTRIBUTING
     - [Arroyo Calle, Adrián & González Caminero, Juan](https://github.com/aarroyoc/entrega1-adriarr-jugonza)
   - *2017/2018* Bicicletoide Parte 2: 
     - [Arroyo Calle, Adrián & González Caminero, Juan](https://github.com/aarroyoc/entrega2-adriarr-jugonza)
+  - *2020/2021* Transporte Mercancias:
+    - [Chaveinte García, Miguel &  Cabanilla Alvarado, Jhon Steeven](https://github.com/miguelchaveinte/entrega1poo)
+  - *2020/2021* Transporte Mercancias Parte 2: 
+    - [Chaveinte García, Miguel &  Cabanilla Alvarado, Jhon Steeven](https://github.com/miguelchaveinte/entrega2poo)
 
 - #### Operative System Basics (Fundamentos de Sistemas Operativos)
 
@@ -60,11 +72,15 @@ You can contribute to this repo following contributing [guidelines](CONTRIBUTING
     - [García Prado, Sergio & Ortega Sánchez, Roberto](https://github.com/garciparedes/HilosPrimos)
   - *2017/2018* Hilos Primos:
     - [Arroyo Calle, Adrián & Martínez Alonso, Eloy Antonio](https://github.com/aarroyoc/practica-fso)
-
+  - *2020/2021* Hilos Decodificación:
+    - [Chaveinte García, Miguel &  Cabanilla Alvarado, Jhon Steeven](https://github.com/miguelchaveinte/FSO)
+    
 - #### Computer Architecture and Organization (Arquitectura y Organización de Computadoras)
 
   - *2014/15* IA32Assembler:
     - [García Prado, Sergio & Fernández Angulo, Oscar](https://github.com/garciparedes/IA32-Assembler)
+  - *2020/21* MIPSAssembler - Prácticas:
+    - [Chaveinte García, Miguel &  Cabanilla Alvarado, Jhon Steeven](https://github.com/miguelchaveinte/AOC)
 
 - #### Data Structures and Algorithms (Estructuras de Datos y Algoritmos)
 
@@ -72,22 +88,37 @@ You can contribute to this repo following contributing [guidelines](CONTRIBUTING
     - [García Prado, Sergio & Amigo Alonso, Alberto](https://github.com/garciparedes/generador-de-texto-aleatorio)
   - *2017/2018* Conway's Game of Life:
     - [Arroyo Calle, Adrián & Bazaco Velasco, Daniel](https://github.com/aarroyoc/Conway)
+  - *2020/2021* Nombres más comunes:
+    - [Chaveinte García, Miguel](https://github.com/miguelchaveinte/EDA)
+  - *2020/2021* Nombres más comunes Parte 2:
+    - [Chaveinte García, Miguel](https://github.com/miguelchaveinte/EDA_Practica2)
 
 - #### Artificial Intelligence Basics (Fundamentos de Inteligencia Artificial)
 
   - *2014/15* Prolog:
     - [García Prado, Sergio](https://github.com/garciparedes/prolog-examples/tree/master/practicas-FIA)
+  - *2020/21* Prolog:
+    - [Chaveinte García, Miguel](https://github.com/miguelchaveinte/FIA)
+
+- #### Software Engineering Basics (Fundamentos de Ingeniería del Software)
+
+  - *2020/21* Prácticas:
+    - [Chaveinte García, Miguel & Cabanilla Alvarado, Jhon Steeven & Fernández García, David](https://github.com/miguelchaveinte/FIS)
 
 - #### Distributed Systems (Sistemas Distribuidos)
 
   - *2014/15* Prácticas:
     - [García Prado, Sergio](https://github.com/garciparedes/PracticasSistemasDistribuidos)
+  - *2020/21* Prácticas:
+    - [Chaveinte García, Miguel](https://github.com/miguelchaveinte/Sdist)
 
 - #### Operative System Structures (Estructuras de Sistemas Operativos)
 
   - *2014/15* Prácticas:
     - [García Prado, Sergio & Calvo Rojo, Adrian](https://github.com/MangostasUVaTeam/Practica-A-B-C-D-E)
-
+  - *2020/21* Prácticas:
+    - [Chaveinte García, Miguel](https://github.com/miguelchaveinte/laboratorio-eso)
+ 
 - #### Human-Computer Interaction (Iteracción Persona-Computadora)
 
   - *2014/15* Cambia Fecha:
@@ -96,6 +127,8 @@ You can contribute to this repo following contributing [guidelines](CONTRIBUTING
     - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/adrianetete/MaquinasEstados-IPC)
   - *2014/15* Reservas Hotel:
     - [García Prado, Sergio & Calvo Rojo, Adrián](https://github.com/adrianetete/Primera-Practica-IPC)
+  - *2020/21* Todas las Prácticas:
+    - [Chaveinte García, Miguel & Cabanilla Alvarado, Jhon Steeven & Pericacho de Partearroyo, Ernesto](https://github.com/miguelchaveinte/IPC)
 
 #### 3º Course
 
